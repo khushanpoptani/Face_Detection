@@ -1,5 +1,0 @@
- base64
- cv2
- face_recognition
- mysql
- os
