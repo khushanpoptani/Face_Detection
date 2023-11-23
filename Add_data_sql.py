@@ -5,7 +5,7 @@ import mysql.connector as sql
 
 
 mydb = sql.connect(host="localhost",user="root",passwd="toor")
-face_cascade = cv2.CascadeClassifier('P:\Projects\Project_P\Projects\Face_recog\Open_CV\haarcascade_frontalface_default.xml')
+face_cascade = cv2.CascadeClassifier('haarcascade_frontalface_default.xml')
 
 
 cursor = mydb.cursor()
