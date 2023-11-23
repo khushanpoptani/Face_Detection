@@ -71,7 +71,7 @@ Navigate to the project directory and use pip to install all requirements for th
 After installing all the modules open Add_Face.py and Face_Detection.py and change the credentials for MySQL Server.
 
 
-### **Working (LOGIC)** 
+### **Working (LOGIC)**
 
 Add_Face.py is used to enter there face data with name, serial number and age. In server a passport size photo is upload in the form of binary (blob) data to keep he records.
 
