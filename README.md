@@ -12,7 +12,7 @@ This is a face Dtecton tool used to Detect faces.
 
 ## Usage
 
-Face detection is a computer vision task that involves locating and identifying faces in images or video. It has various practical applications across different domains. Here are some common uses of face detection:
+This is a raw code and can be used any where with some modification and changes. Face detection is a computer vision task that involves locating and identifying faces in images or video. It has various practical applications across different domains. Here are some common uses of face detection:
 
 1. **Biometric Security:**
    - **Facial Recognition:** Face detection is a crucial component in facial recognition systems. It helps identify and verify individuals based on their facial features. This is widely used in security systems, access control, and authentication processes.
@@ -50,7 +50,7 @@ Face detection, when combined with other technologies like facial recognition an
 
 ### Prerequisites
 
-- Python 3.9
+- Python 3.9 (because it is hard to install face recognition in above version)
 - MySQL Server
 
 ### Step 1: Clone the Repository
